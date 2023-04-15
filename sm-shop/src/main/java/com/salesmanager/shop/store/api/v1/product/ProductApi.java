@@ -321,8 +321,7 @@ public class ProductApi {
 
 		return product;
 	}
-	**/
-
+	
 	/**
 	 * Price calculation
 	 * @param id
